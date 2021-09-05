@@ -1,5 +1,6 @@
 # Data Science Basic Study
 
-### Personal EDA Basic Study1 by using data analytics libraries to prepare data science competition
+#### Personal EDA Basic Study by using data analytics libraries to prepare data science competition
+#### Execute a variety of machine learning algorithms by using iris and mpg datasets
 
-Key : #sklearn, #iris, #DataFrame, #seaborn, #mpg_data, #tips_data etc.
+Key : #ML, #EDA, #sklearn, #iris, #DataFrame, #seaborn, #mpg_dataset, #Pandas_Profiling, #Magic_Command etc.
